@@ -2,4 +2,20 @@
 ##Desafios de Programação (FullStack, banco de dados e Documentação)
 
 
-[this 01 Basic Form](/HTML/01HtmlChallenge_BasicForm.md)
+
+<details>
+
+<summary>Tips for collapsed sections</summary>
+
+### You can add a header
+
+You can add text within a collapsed section. 
+
+You can add an image or a code block, too.
+
+```ruby
+   puts "Hello World"
+```
+
+</details>
+[01 Basic Form](/HTML/01HtmlChallenge_BasicForm.md)
