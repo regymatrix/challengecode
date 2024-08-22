@@ -5,17 +5,10 @@
 
 <details>
 
-<summary>Tips for collapsed sections</summary>
+<summary>HTML</summary>
 
-### You can add a header
+1. [Basic Form](/HTML/01HtmlChallenge_BasicForm.md)
 
-You can add text within a collapsed section. 
 
-You can add an image or a code block, too.
-
-```ruby
-   puts "Hello World"
-```
 
 </details>
-[01 Basic Form](/HTML/01HtmlChallenge_BasicForm.md)
