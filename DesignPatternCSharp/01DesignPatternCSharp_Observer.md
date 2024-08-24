@@ -23,7 +23,7 @@ Os arquivos a seguir pode ser usado para ajudar na entrega da solução final.
 
 | Arquivo  | Finalidade | Baixar |
 | ------------- | ------------- | ------------- |
-| 01DesignPatternCSharp01_Student.cs  | Código inicial para refatorar  | [Visualizar ] (/DesignPatternCSharp/ArquivosAuxiliarCSharopDesP/01DesignPatternCSharp01_Student.cs)
+| 01DesignPatternCSharp01_Student.cs  | Código inicial para refatorar  | [ Visualizar ](/DesignPatternCSharp/ArquivosAuxiliarCSharopDesP/01DesignPatternCSharp01_Student.cs)
 
 ### Regras de Negócio
 
