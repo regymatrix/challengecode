@@ -13,6 +13,7 @@
 
 </details>
 
+<details>
 <summary>Design Pattern CSharp</summary>
 
 1. [Observer](/DesignPatternCSharp/01DesignPatternCSharp_Observer.md)
