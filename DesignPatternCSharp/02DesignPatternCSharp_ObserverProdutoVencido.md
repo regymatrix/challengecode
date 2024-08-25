@@ -5,7 +5,7 @@
 > Sistema Almoxarifado - Design Pattern Observer
 
 #### Missão
-Refatorar estratégia de aumento de preço usando o Design Pattern Observer com base em um código existente (01DesignPatternCSharp01_Student.cs)
+Refatorar estratégia de produtos vencidos usando o Design Pattern Observer com base em um código existente (01DesignPatternCSharp01_Student.cs)
 
 #### Pré-Requisito
 Ter conhecimento e/ou experiência dos conceitos e práticas de Orientação a Objetos
